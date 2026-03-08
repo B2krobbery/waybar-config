@@ -2,6 +2,10 @@
 
 Waybar configuration for Arch Linux with Hyprland.
 
+## Screenshot
+
+![Waybar Screenshot](waybar.png)
+
 ## Features
 
 * Minimal top bar
