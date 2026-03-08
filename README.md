@@ -16,6 +16,10 @@ Waybar configuration for Arch Linux with Hyprland.
 
 ## Author
 
-Modified by **Visal Vijay**
+## Author
+
+Visal Vijay (GitHub: B2krobbery)
+
+Modified and customized Waybar configuration.
 
 Based on a Waybar configuration found online and customized for my setup.
