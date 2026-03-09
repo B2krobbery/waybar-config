@@ -25,3 +25,23 @@ Visal Vijay (GitHub: B2krobbery)
 Modified and customized Waybar configuration.
 
 Based on a Waybar configuration found online and customized for my setup.
+## Setup
+
+Clone the repository:
+
+```
+git clone https://github.com/B2krobbery/waybar-config.git
+```
+
+Copy the files to your Waybar config directory:
+
+```
+cp waybar-config/config ~/.config/waybar/
+cp waybar-config/style.css ~/.config/waybar/
+```
+
+Restart Waybar:
+
+```
+pkill waybar && waybar &
+```
