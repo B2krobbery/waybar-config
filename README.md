@@ -45,3 +45,11 @@ Restart Waybar:
 ```
 pkill waybar && waybar &
 ```
+## Dependencies
+
+Make sure you have the following installed:
+
+* Waybar
+* Nerd Fonts
+* pavucontrol
+* blueman
